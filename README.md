@@ -1,4 +1,4 @@
-<h1 align="center">MANDRESY ANDRINIAINA</h1>
+<h1 align="center">MANDRESIARIVONY ANDRINIAINA</h1>
 
 <p align="center">
   <strong>Computer Science Student • Systems & Networks • Web</strong>
