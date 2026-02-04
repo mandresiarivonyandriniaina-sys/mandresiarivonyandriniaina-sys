@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TON_USERNAME&label=PROFILE+VIEWS&color=0a84ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mandresiarivonyandriniaina-sys&label=PROFILE+VIEWS&color=0a84ff&style=flat-square" />
 </p>
 
 <hr/>
@@ -35,6 +35,9 @@ Based in Madagascar.
     <td><strong>Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=java&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white"/>
     </td>
@@ -83,15 +86,15 @@ Based in Madagascar.
 <h2>GITHUB ANALYTICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mandresiarivonyandriniaina-sys&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandresiarivonyandriniaina-sys&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&bg_color=0d1117&color=0a84ff&line=0a84ff&point=ffffff&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mandresiarivonyandriniaina-sys&bg_color=0d1117&color=0a84ff&line=0a84ff&point=ffffff&hide_border=true"/>
 </p>
 
 <hr/>
@@ -108,4 +111,3 @@ Based in Madagascar.
 <p align="center">
   <sub>Designed with precision. Built with discipline.</sub>
 </p>
-
